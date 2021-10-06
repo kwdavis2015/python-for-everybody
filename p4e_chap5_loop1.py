@@ -7,7 +7,7 @@ Created on Wed Oct  6 12:03:05 2021
 
 
 
-# not working in current state...
+
 
 x = 0
 total = 0
